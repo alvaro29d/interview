@@ -1,8 +1,8 @@
-package com.elementum.exercise;
+package com.elementum.exercise.operation;
 
 import java.util.List;
 
-public class ExerciseTwo {
+public class ComputeOperation {
 
     /**
      * Given an Array and a set of operations apply the operation and print the given result.

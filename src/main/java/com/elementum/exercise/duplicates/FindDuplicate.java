@@ -1,6 +1,6 @@
-package com.elementum.exercise;
+package com.elementum.exercise.duplicates;
 
-public class ExerciseOne
+public class FindDuplicate
 {
 
     /**
